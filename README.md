@@ -9,7 +9,7 @@ O Projeto desenvolvido com o conhecimento adquirido foi um ChatBot de Primeiros 
 
 Página com a apresentação geral do ChatBot: https://sos-digital-v9dj6fk.gamma.site/
 
-ACESSO AO CHATBOT: https://gemini.google.com/share/1b972eac9a71
+ACESSO AO CHATBOT: https://g.co/gemini/share/cf6a59ee8ef8
 
 ---------------------------------------------------------------------
 ![Emergency cardiopulmonary resuscitation](https://github.com/user-attachments/assets/b9e69728-1b60-4d6a-9c05-1af3015cd136)
